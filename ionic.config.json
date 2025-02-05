@@ -1,0 +1,8 @@
+{
+  "name": "Ionic Ios Test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "0d712b3b"
+}
